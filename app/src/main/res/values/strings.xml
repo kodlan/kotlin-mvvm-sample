@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlin-mvvm-sample</string>
+    <string name="action_button">Action button</string>
+</resources>
